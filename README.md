@@ -3,7 +3,7 @@
 
 
 Bu repo [Kodluyoruz](kodluyoruz.org) Front End Egitiminde olusturdugumuz ilk repo. Içerisinde bir adet README dosyasi, bir adet de index.html barindiryor.
-![Markdown dosyanızın içine projemizden bir adet resim koyun]([https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png](https://github.com/abidindarici/kodluyoruzilkrepo/blob/main/foto1.png))
+![Markdown dosyanızın içine projemizden bir adet resim koyun](https://ibb.co/yNqznVd)
 
 ## Installation
 Öncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
