@@ -7,18 +7,18 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front End Egitiminde olusturdugumuz ilk rep
 
 ## Installation
 Öncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
-'''
+```bach
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 
 Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
 Linux için:
-'''
+```linux
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
  Pull requestler kabul edilir. Büyük degisiklikler için, lütfen önce neyi degistirmek istediginizi tartismak için bir konu açiniz.
